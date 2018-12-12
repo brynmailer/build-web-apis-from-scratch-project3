@@ -1,0 +1,5 @@
+users: {}
+articles: {}
+comments: {}
+nextArticleId: 2
+nextCommentId: 1
